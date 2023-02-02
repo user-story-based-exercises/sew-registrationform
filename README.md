@@ -16,3 +16,4 @@ SEW | CORE | Registrationform
   - Password repeat (must match the first password field)
 - In case of a validation error a meaningful error message is presented to the user.
 - The submit button is only clickable, if there are no errors in the registration form.
+- Use the library [vuelidate](https://vuelidate.js.org/) for validation.
