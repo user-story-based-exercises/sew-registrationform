@@ -5,7 +5,7 @@ SEW | CORE | Registrationform
 
 ### Acceptance Criteria
 - A registration form using VueJS is created.
-- The following fields are present:
+- The following fields are present (all fields marked with * are mandatory):
   - Firstname*
   - Lastname*
   - Title (select box showing at least 5 different titles)
