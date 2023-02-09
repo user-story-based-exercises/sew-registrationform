@@ -9,11 +9,11 @@ SEW | CORE | Registrationform
   - Firstname*
   - Lastname*
   - Title (select box showing at least 5 different titles)
-  - E-Mail*
+  - E-Mail* (must have a valid format)
   - Birthday*
   - Phonenumber
-  - Password*
-  - Password repeat (must match the first password field)
+  - Password* (at least 3 characters)
+  - Password repeat (must match the first password field)  
 - In case of a validation error a meaningful error message is presented to the user.
 - The submit button is only clickable, if there are no errors in the registration form.
 - Use the library [vuelidate](https://vuelidate.js.org/) for validation.
