@@ -8,7 +8,6 @@ SEW | CORE | Registrationform
 - The following fields are present (all fields marked with * are mandatory):
   - Firstname*
   - Lastname*
-  - Title (select box showing at least 5 different titles)
   - E-Mail* (must have a valid format)
   - Birthday*
   - Phonenumber
