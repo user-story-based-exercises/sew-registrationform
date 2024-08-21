@@ -1,4 +1,4 @@
-SEW | CORE | Registrationform
+SEW | Registrationform
 
 ## User Story 1
 *As an admin, I need validation within the registration form, so that I am sure to have validated data from my users.*
