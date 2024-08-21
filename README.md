@@ -19,3 +19,6 @@ SEW | Registrationform
 - An error message is displayed for every input field.
 - The submit button is only clickable, if there are no errors in the registration form.
 - Use the library [vuelidate](https://vuelidate-next.netlify.app/) for validation.
+
+## Skill(s)
+- [Validation using Vuelidate](https://my.skilldisplay.eu/en/skill/1874/0)  
