@@ -12,7 +12,7 @@ SEW | Registrationform
   - Birthday*
   - Phonenumber
   - Password* (at least 3 characters)
-  - Password repeat (must match the first password field)  
+  - Password repeat* (must match the first password field)  
 - Initially no error messages are displayed.
 - Inputs are immediately validated, not only on submitting the form.
 - In case of a validation error a meaningful error message is presented to the user.
